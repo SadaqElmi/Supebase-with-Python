@@ -1,0 +1,23 @@
+# Environment files
+.env
+*.env
+
+# Python cache and virtualenv
+__pycache__/
+*.py[cod]
+*.pyc
+venv/
+env/
+.venv/
+
+# IDE files (VS Code, PyCharm)
+.vscode/
+.idea/
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# macOS files
+.DS_Store
